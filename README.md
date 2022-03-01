@@ -24,3 +24,8 @@ I wrote a python script that would generate a field of platforms that I could cu
 with the annoying visual editor.  The script I created is in the file:
 
 platform01.py
+
+You can play the resulting game at:
+https://www.roblox.com/games/6978456956/Wavy-Platform-Obby
+
+I know its pretty basic.  My kids thought it was neat for about 5 min.
