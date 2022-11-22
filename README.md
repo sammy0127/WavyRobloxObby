@@ -8,7 +8,7 @@ There's a basic tutorial on how to do this here: https://developer.roblox.com/en
 
 Roblox has a fairly intuitive editor to use that you can use to visually place elements, then program the behavior of elements using LUA scripts
 
-After a little bit of playing around I was getting the hang of it.  I wanted to do something a little more interesting that static platforms.  Looking at the LUA code its fairly
+After a little bit of playing around I was getting the hang of it.  I wanted to do something a little more interesting than static platforms.  Looking at the LUA code its fairly
 simple to make platforms move.  Then I thought it would be neat to make the platforms move up and down periodically like a wave. Then eventually a whole bunch of platforms moving
 like waves on the ocean.
 
